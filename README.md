@@ -46,4 +46,5 @@ This document summarizes the tasks completed today for the **Ming Personal Web P
 
 ### Repository
 
-The code and assets are available at: [https://github.com/mingliu-create/0225DRL_DIC1](https://github.com/mingliu-create/0225DRL_DIC1)
+- **GitHub**: [https://github.com/mingliu-create/0225DRL_DIC1](https://github.com/mingliu-create/0225DRL_DIC1)
+- **Live Demo**: [https://mingliu-create.github.io/0225DRL_DIC1/](https://mingliu-create.github.io/0225DRL_DIC1/)
